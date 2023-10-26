@@ -351,7 +351,7 @@ void explodirBomba(int **m, Bomba &bomba, int &InimigosRestantes, Inimigos inimi
                 break;
             case 3: 
                 cout << "\nDesenvolvido Por:\n";
-                cout << "Felipe Muller , Gabriel Pavan e Luigi Pofo\n";
+                cout << "Felipe Muller , Gabriel Pavan e Luidgi Pofo\n";
                 cout << "Sobre o Codigo: Implementacao de novas funcoes para o Bomberman criado na M1.\n";
                 cout << "Pressione qualquer tecla para sair.";
                 system("pause");
@@ -559,7 +559,7 @@ int main() {
                 break;
             case 4:
                 cout << "\nDesenvolvido Por:\n";
-                cout << "Felipe Muller , Gabriel Pavan e Luigi Pofo\n";
+                cout << "Felipe Muller , Gabriel Pavan e Luidgi Pofo\n";
                 cout << "Sobre o Codigo: Implementacao de novas funcoes para o Bomberman criado na M1.\n";
                 cout << "Pressione qualquer tecla para sair.";
                 system("pause");
